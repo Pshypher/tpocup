@@ -1,0 +1,27 @@
+import turtle
+
+# Draw a six pointed star
+
+turtle.forward(50)
+turtle.right(60)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(50)
+turtle.right(60)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(50)
+turtle.right(60)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(50)
+turtle.right(60)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(50)
+turtle.right(60)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(50)
+turtle.right(60)
+turtle.forward(50)
